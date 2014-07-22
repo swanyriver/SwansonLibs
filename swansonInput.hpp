@@ -7,6 +7,7 @@
  * Overview: A collection of static methods designed to facilitate getting input
  *           from the user, all methods take in a prompt that will be given to
  *           clarify desired input to user
+ *  7/22/ updated for seperate git tracking
  ***********************************************************/
 
 #ifndef SWANSONINPUT_HPP_
