@@ -9,6 +9,7 @@
  *           clarify desired input to user
  *  7/22/ updated for seperate git tracking
  *  11:00pm  git in git
+ * 11:10 git fake submodule
  ***********************************************************/
 
 
